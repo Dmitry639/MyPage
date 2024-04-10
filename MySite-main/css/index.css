@@ -103,6 +103,7 @@ font-weight: 550;
     opacity: 0;
 }
 
+
 .custom_checkbox+label {
     display: inline-flex;
     align-items: center;
